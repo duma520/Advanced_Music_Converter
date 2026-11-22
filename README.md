@@ -1,11 +1,10 @@
 # Advanced_Music_Converter （见源码内 VERSION 常量）
 
-> **一句话**：Advanced_Music_Converter —— 一个用 Python 写的 Windows 桌面程序，
-> 主程序为 `Advanced_Music_Converter.py`，界面技术栈 PySide6（Qt6 官方 Python 绑定）。
+> **一句话**：Advanced_Music_Converter —— 简谱转音乐工具。
 >
 > **适合谁**：想直接用现成工具、不想自己写代码的 Windows 用户。
 >
-> **解决什么问题**：把这件事做成开箱即用的程序 —— 下载解压、装上依赖、双击就能跑。
+> **解决什么问题**：把「简谱转音乐工具」这件事做成开箱即用的程序 —— 下载解压、装上依赖、双击就能跑。
 
 ---
 
